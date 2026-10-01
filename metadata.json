@@ -1,0 +1,6 @@
+{
+  "name": "Mi Bolsillo - Finanzas Estudiantiles",
+  "description": "App de finanzas personales para estudiantes con registro de gastos, meta semanal y semáforo presupuestario inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
